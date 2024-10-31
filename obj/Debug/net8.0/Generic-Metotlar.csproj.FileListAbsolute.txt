@@ -12,3 +12,4 @@
 /Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.pdb
 /Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.genruntimeconfig.cache
 /Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/ref/Generic-Metotlar.dll
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.sourcelink.json
