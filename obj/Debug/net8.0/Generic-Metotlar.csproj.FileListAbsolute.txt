@@ -1,0 +1,14 @@
+/Users/emrahelis/Generic-Metotlar/bin/Debug/net8.0/Generic-Metotlar
+/Users/emrahelis/Generic-Metotlar/bin/Debug/net8.0/Generic-Metotlar.deps.json
+/Users/emrahelis/Generic-Metotlar/bin/Debug/net8.0/Generic-Metotlar.runtimeconfig.json
+/Users/emrahelis/Generic-Metotlar/bin/Debug/net8.0/Generic-Metotlar.dll
+/Users/emrahelis/Generic-Metotlar/bin/Debug/net8.0/Generic-Metotlar.pdb
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.AssemblyInfoInputs.cache
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.AssemblyInfo.cs
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.dll
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/refint/Generic-Metotlar.dll
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.pdb
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/Generic-Metotlar.genruntimeconfig.cache
+/Users/emrahelis/Generic-Metotlar/obj/Debug/net8.0/ref/Generic-Metotlar.dll
